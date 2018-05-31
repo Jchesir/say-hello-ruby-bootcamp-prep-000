@@ -1,1 +1,1 @@
-def Greeting 
+def greeting 
